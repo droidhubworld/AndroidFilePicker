@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="dialog_style" parent="android:Animation">
+
+    </style>
+
+    <style name="dialogStyle" parent="dialog_style">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+</resources>

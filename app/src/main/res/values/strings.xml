@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidFilePicker</string>
+    <string name="select_folder">Pick Folder</string>
+    <string name="not_selected">%s not selected yet</string>
+
+    <string name="select_file">Pick File</string>
+    <string name="pick_cancelled">%s picking cancelled.</string>
+
+    <string name="select_file_from_dialog">Pick File From Dialog</string>
+    <string name="select_folder_from_dialog">Pick Folder From Dialog</string>
+</resources>
